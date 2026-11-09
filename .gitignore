@@ -1,1 +1,8 @@
-
+*.exe
+*.pdb
+*.mdb
+bin/
+obj/
+temp/
+*.user
+.DS_Store
