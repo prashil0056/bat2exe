@@ -1,1 +1,14 @@
 
+Commit message: `add readme`
+
+---
+
+**File 5 — `test.bat`** (optional but useful as an example)
+
+**Add file → Create new file**. Filename: `test.bat`. Paste:
+
+```bat
+@echo off
+echo hello from bat2exe
+echo this batch was embedded inside a windows exe
+pause
